@@ -39,7 +39,7 @@ pass
 | Control Systems & Human-Machine Interface | ![LabVIEW][] ![PLC][] ![Simulink][] ![Feedback Control][] ![Signal Processing][] |
 | Robotic Systems | ![6-DoF Kinematics][] ![Trajectory Generation][] ![Singular Configurations][] |
 | Artificial Intelligence | ![Machine Learning][] ![Computer Vision][] ![OpenCV][] ![PyTorch][] |
-| Front-end Development | ![HTML][] ![CSS][] ![JavaScript][] ![jQuery][] ![Bootstrap][] |
+| Front-end Development | ![HTML][] ![CSS][] ![JavaScript][] ![jQuery][] ![Bootstrap][] ![WordPress][]|
 | Back-end Development and Data Analysis | ![MongoDB][] ![AWS][] ![AWS Lambda][] ![Amazon S3][] ![MATLAB][] ![VBA][] ![MS Macros][] |
 | Hardware Design | ![SolidWorks][] ![Onshape][] |
 
@@ -71,6 +71,7 @@ pass
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black
 [jQuery]: https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white
+[WordPress]: https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248.svg?logo=MongoDB&logoColor=white
 [AWS]: https://img.shields.io/badge/AWS-232F3E.svg?logo=Amazon%20AWS&logoColor=white
 [AWS Lambda]: https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=AWS%20Lambda&logoColor=white
