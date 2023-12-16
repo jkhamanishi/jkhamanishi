@@ -6,7 +6,31 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub)](https://github.com/jkhamanishi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2196f3.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI0ZGRiIgY2xhc3M9ImJpIGJpLWZvbGRlci1zeW1saW5rLWZpbGwiIHZpZXdCb3g9IjAgMCAxNiAxNiI+CiAgPHBhdGggZD0iTTEzLjgxIDNIOS44MjhhMiAyIDAgMCAxLTEuNDE0LS41ODZsLS44MjgtLjgyOEEyIDIgMCAwIDAgNi4xNzIgMUgyLjVhMiAyIDAgMCAwLTIgMmwuMDQuODdhMS45OSAxLjk5IDAgMCAwLS4zNDIgMS4zMTFsLjYzNyA3QTIgMiAwIDAgMCAyLjgyNiAxNGgxMC4zNDhhMiAyIDAgMCAwIDEuOTkxLTEuODE5bC42MzctN0EyIDIgMCAwIDAgMTMuODEgM3pNMi4xOSAzYy0uMjQgMC0uNDcuMDQyLS42ODMuMTJMMS41IDIuOThhMSAxIDAgMCAxIDEtLjk4aDMuNjcyYTEgMSAwIDAgMSAuNzA3LjI5M0w3LjU4NiAzSDIuMTl6bTkuNjA4IDUuMjcxLTMuMTgyIDEuOTdjLS4yNy4xNjYtLjYxNi0uMDM2LS42MTYtLjM3MlY5LjFzLTIuNTcxLS4zLTQgMi40Yy41NzEtNC44IDMuMTQzLTQuOCA0LTQuOHYtLjc2OWMwLS4zMzYuMzQ2LS41MzguNjE2LS4zNzFsMy4xODIgMS45NjljLjI3LjE2Ni4yNy41NzYgMCAuNzQyeiIvPgo8L3N2Zz4=)](https://jkhamanishi.github.io/)
 
-## Skills
+### 👨🏻‍💻 About Me
+
+I am a passionate programmer with a BASc in Mechatronic Systems Engineering. I have been interested in robotics and programming for as long as I can remember. 
+When I was 8 years old, I learned my first programming language to run a Lego robot I had built. Alongside the many fun projects throughout my degree, I have 
+worked on personal projects such as a [course navigator/curriculum planner](https://jkhamanishi.github.io/course-navigator/), an online art database, and a 
+Discord bot.
+
+<hr>
+
+### 💼 Work Experience
+pass
+
+<hr>
+
+### 📂 Technical Projects
+Please check out [my portfolio](https://jkhamanishi.github.io/) for a list of projects that I am very proud of.
+
+<hr>
+
+### 🎓 Education
+pass
+
+<hr>
+
+### 💪 Skills
 
 | Topic | Skills | 
 | :---- | :----- | 
