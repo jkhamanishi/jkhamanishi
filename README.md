@@ -39,54 +39,125 @@ worked on personal projects such as a curriculum planner, an online art database
 
 <hr>
 
-### 💪 Skills
+### 💪 Technical Skills & Tools
 
-| Topic | Skills | 
-| :---- | :----- | 
-| General Programming | ![Git][] ![Python][] ![C++][] ![Node.js][] ![Java][] ![Lua][] |
-| Firmware Development & Embedded Systems | ![C++][] ![Assembly][] ![SPI][] ![I2C][] ![Raspberry Pi][] ![Arduino][] |
-| Control Systems & Human-Machine Interface | ![LabVIEW][] ![PLC][] ![Simulink][] ![Feedback Control][] ![Signal Processing][] |
-| Robotic Systems | ![6-DoF Kinematics][] ![Trajectory Generation][] ![Singular Configurations][] |
-| Artificial Intelligence | ![Machine Learning][] ![Computer Vision][] ![OpenCV][] ![PyTorch][] |
-| Front-end Development | ![HTML][] ![CSS][] ![JavaScript][] ![jQuery][] ![Bootstrap][] ![WordPress][]|
-| Back-end Development and Data Analysis | ![MongoDB][] ![AWS][] ![AWS Lambda][] ![Amazon S3][] ![MATLAB][] ![VBA][] ![MS Macros][] |
-| Hardware Design | ![SolidWorks][] ![Onshape][] |
-
-[Git]: https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white
-[Python]: https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white
-[C++]: https://img.shields.io/badge/C++-00599C.svg?logo=C++&logoColor=white
-[Node.js]: https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white
-[Java]: https://img.shields.io/badge/Java-5283A2.svg
-[Lua]: https://img.shields.io/badge/Lua-2C2D72.svg?logo=Lua&logoColor=white
-[Assembly]: https://img.shields.io/badge/Assembly-223A93.svg
-[SPI]: https://img.shields.io/badge/SPI-2196f3.svg
-[I2C]: https://img.shields.io/badge/I2C-2196f3.svg
-[Raspberry Pi]: https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?logo=Raspberry%20Pi&logoColor=white
-[Arduino]: https://img.shields.io/badge/Arduino-00878F.svg?logo=Arduino&logoColor=white
-[LabVIEW]: https://img.shields.io/badge/LabVIEW-FFDB00.svg?logo=LabVIEW&logoColor=black
-[PLC]: https://img.shields.io/badge/PLC-2196f3.svg
-[Simulink]: https://img.shields.io/badge/Simulink-02639F.svg
-[Feedback Control]: https://img.shields.io/badge/Feedback%20Control-2196f3.svg
-[Signal Processing]: https://img.shields.io/badge/Signal%20Processing-2196f3.svg
-[6-DoF Kinematics]: https://img.shields.io/badge/6%20DoF%20Kinematics-2196f3.svg
-[Trajectory Generation]: https://img.shields.io/badge/Trajectory%20Generation-2196f3.svg
-[Singular Configurations]: https://img.shields.io/badge/Singular%20Configurations-2196f3.svg
-[Machine Learning]: https://img.shields.io/badge/Machine%20Learning-2196f3.svg
-[Computer Vision]: https://img.shields.io/badge/Computer%20Vision-2196f3.svg
-[OpenCV]: https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=OpenCV&logoColor=white
-[PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white
-[HTML]: https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&logoColor=white
-[CSS]: https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&logoColor=white
-[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black
-[jQuery]: https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white
-[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white
-[WordPress]: https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white
-[MongoDB]: https://img.shields.io/badge/MongoDB-47A248.svg?logo=MongoDB&logoColor=white
-[AWS]: https://img.shields.io/badge/AWS-232F3E.svg?logo=Amazon%20AWS&logoColor=white
-[AWS Lambda]: https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=AWS%20Lambda&logoColor=white
-[Amazon S3]: https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=Amazon%20S3&logoColor=white
-[MATLAB]: https://img.shields.io/badge/MATLAB-02639F.svg
-[VBA]: https://img.shields.io/badge/VBA-026502.svg
-[MS Macros]: https://img.shields.io/badge/MS%20Macros-026502.svg
-[SolidWorks]: https://img.shields.io/badge/SolidWorks-FF0000.svg?logo=dassault%20syst%C3%A8mes
-[OnShape]: https://img.shields.io/badge/Onshape-64BC4F.svg
+<table>
+  <tr>
+    <td valign="top">Operating Systems</td>
+    <td valign="top">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4.svg?logo=Windows&logoColor=white">
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=Linux&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Code Development & Documentation</td>
+    <td valign="top">
+      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white">
+      <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-black.svg?logo=PyCharm&logoColor=white">
+      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-black.svg?logo=Markdown&logoColor=white">
+      <img alt="Microsoft Word" src="https://img.shields.io/badge/MS%20Word-2B579A.svg?logo=microsoftword&logoColor=white">
+      <img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4.svg?logo=googledocs&logoColor=white">
+    </td>
+  </tr>
+    <tr>
+    <td valign="top">General Programming</td>
+    <td valign="top">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white">
+      <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=Cplusplus&logoColor=white">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white">
+      <img alt="JSON" src="https://img.shields.io/badge/JSON-black.svg?logo=JSON&logoColor=white">
+      <img alt="Java" src="https://img.shields.io/badge/Java-5283A2.svg">
+      <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=Lua&logoColor=white">
+      <img alt="AHK" src="https://img.shields.io/badge/AutoHotkey-334455.svg?logo=autohotkey&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Firmware Development & Embedded Systems</td>
+    <td valign="top">
+      <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black">
+      <img alt="Assembly" src="https://img.shields.io/badge/Assembly-223A93.svg">
+      <img alt="SPI" src="https://img.shields.io/badge/SPI-2196f3.svg">
+      <img alt="I2C" src="https://img.shields.io/badge/I2C-2196f3.svg">
+      <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?logo=Raspberry%20Pi&logoColor=white">
+      <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F.svg?logo=Arduino&logoColor=white">
+      <img alt="Jeteson" src="https://img.shields.io/badge/Jetson-76B900.svg?logo=nvidia&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Control Systems & HMI</td>
+    <td valign="top">
+      <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52.svg?logo=Qt&logoColor=white">
+      <img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?logo=LabVIEW&logoColor=black">
+      <img alt="PLC" src="https://img.shields.io/badge/PLC-2196f3.svg">
+      <img alt="Simulink" src="https://img.shields.io/badge/Simulink-02639F.svg">
+      <img alt="Feedback Control" src="https://img.shields.io/badge/Feedback%20Control-2196f3.svg">
+      <img alt="Signal Processing" src="https://img.shields.io/badge/Signal%20Processing-2196f3.svg">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Robotic Systems</td>
+    <td valign="top">
+      <img alt="6-DoF Kinematics" src="https://img.shields.io/badge/6--DoF%20Kinematics-2196f3.svg">
+      <img alt="Trajectory Generation" src="https://img.shields.io/badge/Trajectory%20Generation-2196f3.svg">
+      <img alt="Singular Configurations" src="https://img.shields.io/badge/Singular%20Configurations-2196f3.svg">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Artificial Intelligence</td>
+    <td valign="top">
+      <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-2196f3.svg">
+      <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-2196f3.svg">
+      <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=OpenCV&logoColor=white">
+      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Front-end Development</td>
+    <td valign="top">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black">
+      <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white">
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white">
+      <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white">
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=Flask&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Back-end Development</td>
+    <td valign="top">
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=MongoDB&logoColor=white">
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=Amazon%20AWS&logoColor=white">
+      <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=AWS%20Lambda&logoColor=white">
+      <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=Amazon%20S3&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Data Analysis</td>
+    <td valign="top">
+      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=Plotly&logoColor=white">
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=NumPy&logoColor=white">
+      <img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white">
+      <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-02639F.svg">
+      <img alt="Excel" src="https://img.shields.io/badge/MS%20Excel-217346.svg?logo=microsoftexcel&logoColor=white">
+      <img alt="VBA" src="https://img.shields.io/badge/VBA-512BD4.svg">
+      <img alt="MS Macros" src="https://img.shields.io/badge/MS%20Macros-217346.svg">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Hardware Design</td>
+    <td valign="top">
+      <img alt="CAD" src="https://img.shields.io/badge/CAD-2196f3.svg">
+      <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-FF0000.svg?logo=dassault%20syst%C3%A8mes">
+      <img alt="OnShape" src="https://img.shields.io/badge/Onshape-64BC4F.svg">
+      <img alt="PCB Design" src="https://img.shields.io/badge/PCB%20Design-2196f3.svg">
+      <img alt="Soldering" src="https://img.shields.io/badge/Soldering-2196f3.svg">
+      <img alt="DMM" src="https://img.shields.io/badge/DMM-2196f3.svg">
+      <img alt="Oscilloscope" src="https://img.shields.io/badge/Oscilloscope-2196f3.svg">
+      <img alt="CNC" src="https://img.shields.io/badge/CNC-2196f3.svg">
+      <img alt="G-Code" src="https://img.shields.io/badge/G--Code-2196f3.svg">
+      <img alt="PCB Design" src="https://img.shields.io/badge/PCB%20Design-2196f3.svg">
+    </td>
+  </tr>
+</table>
