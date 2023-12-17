@@ -15,14 +15,15 @@ worked on personal projects such as a curriculum planner, an online art database
 
 ### 💼 Work Experience
 - **Software Co-op (Robotics & Automation Technician)**\
-  ![Company](https://img.shields.io/badge/Company-Miru%20Smart%20Technologies-167FC3.svg)\
-  ![Location](https://img.shields.io/badge/Location-Vancouver,%20British%20Columbia,%20Canada-dodgerblue.svg)\
-  ![Duration](https://img.shields.io/badge/Duration-Jan%20--%20Sep%202022%20(9%20months)-green.svg)
+  _Miru Smart Technologies_\
+  Vancouver, British Columbia, Canada\
+  Jan - Sep 2022 (9 months)
+
 
 - **Data Quality Assurance Co-op**\
-  ![Company](https://img.shields.io/badge/Company-SFU%20Faculty%20of%20Applied%20Sciences-D40630.svg)\
-  ![Location](https://img.shields.io/badge/Location-Burnaby%2C%20British%20Columbia%2C%20Canada-dodgerblue.svg)\
-  ![Duration](https://img.shields.io/badge/Duration-May%20--%20Dec%202020%20(8%20months)-green.svg)
+  _SFU Faculty of Applied Sciences_\
+  Burnaby, British Columbia, Canada\
+  May - Dec 2020 (8 months)
 
 <hr>
 
@@ -33,9 +34,9 @@ worked on personal projects such as a curriculum planner, an online art database
 
 ### 🎓 Education
 - **Simon Fraser University**\
-  ![Degree](https://img.shields.io/badge/Degree-Bachelor%20of%20Applied%20Science%20(BASc)-D40630.svg)\
-  ![Major](https://img.shields.io/badge/Major-Mechatronic%20Systems%20Engineering-EA6121.svg)\
-  ![Duration](https://img.shields.io/badge/Duration-Sep%202018%20--%20Aug%202023%20(5%20years)-green.svg)
+  _Bachelor of Applied Science (BASc)_\
+  Mechatronic Systems Engineering\
+  Sep 2018 - Aug 2023 (5 years)
 
 <hr>
 
