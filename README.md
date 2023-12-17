@@ -152,7 +152,6 @@ worked on personal projects such as a curriculum planner, an online art database
       <img alt="CAD" src="https://img.shields.io/badge/CAD-2196f3.svg">
       <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-FF0000.svg?logo=dassault%20syst%C3%A8mes">
       <img alt="OnShape" src="https://img.shields.io/badge/Onshape-64BC4F.svg">
-      <img alt="PCB Design" src="https://img.shields.io/badge/PCB%20Design-2196f3.svg">
       <img alt="Soldering" src="https://img.shields.io/badge/Soldering-2196f3.svg">
       <img alt="DMM" src="https://img.shields.io/badge/DMM-2196f3.svg">
       <img alt="Oscilloscope" src="https://img.shields.io/badge/Oscilloscope-2196f3.svg">
