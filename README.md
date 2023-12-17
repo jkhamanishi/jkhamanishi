@@ -1,6 +1,5 @@
 # Jackson Hamanishi Profile
 
-[![Location](https://img.shields.io/badge/Location-2196f3.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI0ZGRiIgY2xhc3M9ImJpIGJpLWdlby1hbHQtZmlsbCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNOCAxNnM2LTUuNjg2IDYtMTBBNiA2IDAgMCAwIDIgNmMwIDQuMzE0IDYgMTAgNiAxMHptMC03YTMgMyAwIDEgMSAwLTYgMyAzIDAgMCAxIDAgNnoiLz4KPC9zdmc+)](https://www.google.com/maps/place/Metro+Vancouver,+BC)
 [![Email](https://img.shields.io/badge/Email-2196f3.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI2ZmZiI+CiAgPHBhdGggZD0iTS4wNSAzLjU1NUEyIDIgMCAwIDEgMiAyaDEyYTIgMiAwIDAgMSAxLjk1IDEuNTU1TDggOC40MTQuMDUgMy41NTVaTTAgNC42OTd2Ny4xMDRsNS44MDMtMy41NThMMCA0LjY5N1pNNi43NjEgOC44M2wtNi41NyA0LjAyN0EyIDIgMCAwIDAgMiAxNGgxMmEyIDIgMCAwIDAgMS44MDgtMS4xNDRsLTYuNTctNC4wMjdMOCA5LjU4NmwtMS4yMzktLjc1N1ptMy40MzYtLjU4NkwxNiAxMS44MDFWNC42OTdsLTUuODAzIDMuNTQ2WiIvPgo8L3N2Zz4=)](mailto:jkhamanishi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn)](https://linkedin.com/in/jkhamanishi/?trk=profile-badge)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub)](https://github.com/jkhamanishi)
@@ -10,18 +9,23 @@
 
 I am a passionate programmer with a BASc in Mechatronic Systems Engineering. I have been interested in robotics and programming for as long as I can remember. 
 When I was 8 years old, I learned my first programming language to run a Lego robot I had built. Alongside the many fun projects throughout my degree, I have 
-worked on personal projects such as a [course navigator/curriculum planner](https://jkhamanishi.github.io/course-navigator/), an online art database, and a 
-Discord bot.
+worked on personal projects such as a curriculum planner, an online art database, and a Discord bot.
 
 <hr>
 
 ### 💼 Work Experience
-pass
+- **Software Co-op (Robotics & Automation Technician)**\
+  ![Miru Smart Technologies](https://img.shields.io/badge/Miru%20Smart%20Technologies-Vancouver,%20British%20Columbia,%20Canada-595959.svg?labelColor=167FC3)\
+  ![Duration](https://img.shields.io/badge/Jan%20--%20Sep%202022-9%20months-green.svg)
+
+- **Data Quality Assurance Co-op**\
+  ![Faculty of Applied Sciences at SFU](https://img.shields.io/badge/SFU%20Faculty%20of%20Applied%20Sciences-Burnaby%2C%20British%20Columbia%2C%20Canada-595959.svg?labelColor=D40630)\
+  ![Duration](https://img.shields.io/badge/May%20--%20Dec%202020-8%20months-green.svg)
 
 <hr>
 
 ### 📂 Technical Projects
-Please check out [my portfolio](https://jkhamanishi.github.io/) for a list of projects that I am very proud of.
+- Please check out [my portfolio](https://jkhamanishi.github.io/) for a list of projects that I am very proud of.
 
 <hr>
 
