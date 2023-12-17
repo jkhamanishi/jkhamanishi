@@ -30,7 +30,9 @@ worked on personal projects such as a curriculum planner, an online art database
 <hr>
 
 ### 🎓 Education
-pass
+- **Simon Fraser University**\
+  ![BASc MSE](https://img.shields.io/badge/Bachelor%20of%20Applied%20Science%20(BASc)-Mechatronic%20Systems%20Engineering-EA6121.svg)\
+  ![Duration](https://img.shields.io/badge/Sep%202018%20--%20Aug%202023-5%20years-green.svg)
 
 <hr>
 
