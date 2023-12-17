@@ -15,12 +15,14 @@ worked on personal projects such as a curriculum planner, an online art database
 
 ### 💼 Work Experience
 - **Software Co-op (Robotics & Automation Technician)**\
-  ![Miru Smart Technologies](https://img.shields.io/badge/Miru%20Smart%20Technologies-Vancouver,%20British%20Columbia,%20Canada-595959.svg?labelColor=167FC3)\
-  ![Duration](https://img.shields.io/badge/Jan%20--%20Sep%202022-9%20months-green.svg)
+  ![Company](https://img.shields.io/badge/Company-Miru%20Smart%20Technologies-167FC3.svg)\
+  ![Location](https://img.shields.io/badge/Location-Vancouver,%20British%20Columbia,%20Canada-dodgerblue.svg)\
+  ![Duration](https://img.shields.io/badge/Duration-Jan%20--%20Sep%202022%20(9%20months)-green.svg)
 
 - **Data Quality Assurance Co-op**\
-  ![Faculty of Applied Sciences at SFU](https://img.shields.io/badge/SFU%20Faculty%20of%20Applied%20Sciences-Burnaby%2C%20British%20Columbia%2C%20Canada-595959.svg?labelColor=D40630)\
-  ![Duration](https://img.shields.io/badge/May%20--%20Dec%202020-8%20months-green.svg)
+  ![Company](https://img.shields.io/badge/Company-SFU%20Faculty%20of%20Applied%20Sciences-D40630.svg)\
+  ![Location](https://img.shields.io/badge/Location-Burnaby%2C%20British%20Columbia%2C%20Canada-dodgerblue.svg)\
+  ![Duration](https://img.shields.io/badge/Duration-May%20--%20Dec%202020%20(8%20months)-green.svg)
 
 <hr>
 
@@ -31,8 +33,9 @@ worked on personal projects such as a curriculum planner, an online art database
 
 ### 🎓 Education
 - **Simon Fraser University**\
-  ![BASc MSE](https://img.shields.io/badge/Bachelor%20of%20Applied%20Science%20(BASc)-Mechatronic%20Systems%20Engineering-EA6121.svg)\
-  ![Duration](https://img.shields.io/badge/Sep%202018%20--%20Aug%202023-5%20years-green.svg)
+  ![Degree](https://img.shields.io/badge/Degree-Bachelor%20of%20Applied%20Science%20(BASc)-D40630.svg)\
+  ![Major](https://img.shields.io/badge/Major-Mechatronic%20Systems%20Engineering-EA6121.svg)\
+  ![Duration](https://img.shields.io/badge/Duration-Sep%202018%20--%20Aug%202023%20(5%20years)-green.svg)
 
 <hr>
 
