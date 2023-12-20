@@ -54,7 +54,7 @@ worked on personal projects such as a curriculum planner, an online art database
     <td valign="top">Code Development & Documentation</td>
     <td valign="top">
       <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white">
-      <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-black.svg?logo=PyCharm&logoColor=white">
+      <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-F3F049.svg?logo=PyCharm&logoColor=black">
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-black.svg?logo=Markdown&logoColor=white">
       <img alt="Microsoft Word" src="https://img.shields.io/badge/MS%20Word-2B579A.svg?logo=microsoftword&logoColor=white">
       <img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4.svg?logo=googledocs&logoColor=white">
