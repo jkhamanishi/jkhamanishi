@@ -93,6 +93,7 @@ worked on personal projects such as a curriculum planner, an online art database
       <img alt="PLC" src="https://img.shields.io/badge/PLC-2196f3.svg">
       <img alt="Simulink" src="https://img.shields.io/badge/Simulink-02639F.svg">
       <img alt="Feedback Control" src="https://img.shields.io/badge/Feedback%20Control-2196f3.svg">
+      <img alt="PID Tuning" src="https://img.shields.io/badge/PID_Tuning-2196f3.svg">
       <img alt="Signal Processing" src="https://img.shields.io/badge/Signal%20Processing-2196f3.svg">
     </td>
   </tr>
