@@ -53,6 +53,7 @@ worked on personal projects such as a curriculum planner, an online art database
   <tr>
     <td valign="top">Code Development & Documentation</td>
     <td valign="top">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white">
       <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white">
       <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-F3F049.svg?logo=PyCharm&logoColor=black">
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-black.svg?logo=Markdown&logoColor=white">
@@ -63,7 +64,6 @@ worked on personal projects such as a curriculum planner, an online art database
     <tr>
     <td valign="top">General Programming</td>
     <td valign="top">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white">
       <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=Cplusplus&logoColor=white">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white">
