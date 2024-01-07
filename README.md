@@ -74,7 +74,7 @@ worked on personal projects such as a curriculum planner, an online art database
     </td>
   </tr>
   <tr>
-    <td valign="top">Firmware Development & Embedded Systems</td>
+    <td valign="top">Firmware & Embedded Systems</td>
     <td valign="top">
       <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black">
       <img alt="Assembly" src="https://img.shields.io/badge/Assembly-223A93.svg">
