@@ -14,7 +14,13 @@ worked on personal projects such as a curriculum planner, an online art database
 <hr>
 
 ### 💼 Work Experience
-- **Software Co-op (Robotics & Automation Technician)**\
+- **Robotics and Control Systems Engineer (EIT)**\
+  _ConeTec Investigations Ltd_\
+  Burnaby, British Columbia, Canada\
+  Jan 2024 - Present
+
+
+- **Robotics & Automation Technician (Software Co-op)**\
   _Miru Smart Technologies_\
   Vancouver, British Columbia, Canada\
   Jan - Sep 2022 (9 months)
