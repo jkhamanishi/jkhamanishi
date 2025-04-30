@@ -17,7 +17,7 @@ worked on personal projects such as a curriculum planner, an online art database
 - **Robotics and Control Systems Engineer (EIT)**\
   _ConeTec Investigations Ltd_\
   Burnaby, British Columbia, Canada\
-  Jan 2024 - Present
+  Feb 2024 - Present
 
 
 - **Robotics & Automation Technician (Software Co-op)**\
