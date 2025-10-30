@@ -14,7 +14,7 @@ worked on personal projects such as a curriculum planner, an online art database
 <hr>
 
 ### 💼 Work Experience
-- **Robotics and Control Systems Engineer (EIT)**\
+- **Robotics and Control Systems Engineer-in-Training**\
   _ConeTec Investigations Ltd_\
   Burnaby, British Columbia, Canada\
   Feb 2024 - Present
